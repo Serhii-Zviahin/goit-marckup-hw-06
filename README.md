@@ -1,4 +1,4 @@
-# goit-markup-hw-05
+# goit-markup-hw-06
 
-goit-homework-05
-add modal (pop-up) window, forms, icons, svg-sprites, icons in input, custom svg checkbox,
+goit-homework-06
+adaptive styles
