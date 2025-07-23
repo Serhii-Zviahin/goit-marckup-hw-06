@@ -4,7 +4,7 @@
     openModalBtn: document.querySelector('[data-menu-open]'),
     // Додати атрибут data-modal-close на кнопку закриття
     closeModalBtn: document.querySelector('[data-menu-close]'),
-    // Додати атрибут data-modal на бекдроп модалки
+    // Додати атрибут data-modal на бекдроп менюшки
     modal: document.querySelector('[data-menu]'),
   };
 
